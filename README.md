@@ -16,5 +16,5 @@
 
 ## old work
 
-- **[oldwok](https://github.com/yeleongit)** - macOS menubar app for Cursor workflow monitoring and automation
+- **[oldwok](https://github.com/yeleongit)** - oldwok
 
