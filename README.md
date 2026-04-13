@@ -1,5 +1,5 @@
 ## stack
-c#, java, python, js, react.
+c#, java, python, js, ts,  react.
 
 ---
 
